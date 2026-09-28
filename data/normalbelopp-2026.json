@@ -1,0 +1,986 @@
+{
+  "år": 2026,
+  "källa": "Skatteverkets öppna data",
+  "hämtad": "2026-09-28",
+  "länder": [
+    {
+      "land": "Albanien",
+      "landskod": "AL",
+      "normalbelopp": 351
+    },
+    {
+      "land": "Algeriet",
+      "landskod": "DZ",
+      "normalbelopp": 334
+    },
+    {
+      "land": "Amerikanska Samoa",
+      "landskod": "AS",
+      "normalbelopp": 889
+    },
+    {
+      "land": "Angola",
+      "landskod": "AO",
+      "normalbelopp": 540
+    },
+    {
+      "land": "Anguilla",
+      "landskod": "AI",
+      "normalbelopp": 1037
+    },
+    {
+      "land": "Antigua och Barbuda",
+      "landskod": "AG",
+      "normalbelopp": 742
+    },
+    {
+      "land": "Argentina",
+      "landskod": "AR",
+      "normalbelopp": 388
+    },
+    {
+      "land": "Armenien",
+      "landskod": "AM",
+      "normalbelopp": 469
+    },
+    {
+      "land": "Aruba",
+      "landskod": "AW",
+      "normalbelopp": 864
+    },
+    {
+      "land": "Australien",
+      "landskod": "AU",
+      "normalbelopp": 727
+    },
+    {
+      "land": "Azerbajdzjan",
+      "landskod": "AZ",
+      "normalbelopp": 437
+    },
+    {
+      "land": "Bahamas",
+      "landskod": "BS",
+      "normalbelopp": 1146
+    },
+    {
+      "land": "Bahrain",
+      "landskod": "BH",
+      "normalbelopp": 881
+    },
+    {
+      "land": "Bangladesh",
+      "landskod": "BD",
+      "normalbelopp": 399
+    },
+    {
+      "land": "Barbados",
+      "landskod": "BB",
+      "normalbelopp": 930
+    },
+    {
+      "land": "Belarus",
+      "landskod": "BY",
+      "normalbelopp": 300
+    },
+    {
+      "land": "Belgien",
+      "landskod": "BE",
+      "normalbelopp": 897
+    },
+    {
+      "land": "Belize",
+      "landskod": "BZ",
+      "normalbelopp": 591
+    },
+    {
+      "land": "Benin",
+      "landskod": "BJ",
+      "normalbelopp": 562
+    },
+    {
+      "land": "Bermuda",
+      "landskod": "BM",
+      "normalbelopp": 1217
+    },
+    {
+      "land": "Bolivia",
+      "landskod": "BO",
+      "normalbelopp": 406
+    },
+    {
+      "land": "Bonaire",
+      "landskod": "BQ",
+      "normalbelopp": 722
+    },
+    {
+      "land": "Bosnien-Hercegovina",
+      "landskod": "BA",
+      "normalbelopp": 355
+    },
+    {
+      "land": "Botswana",
+      "landskod": "BW",
+      "normalbelopp": 358
+    },
+    {
+      "land": "Brasilien",
+      "landskod": "BR",
+      "normalbelopp": 376
+    },
+    {
+      "land": "Brunei Darussalam",
+      "landskod": "BN",
+      "normalbelopp": 458
+    },
+    {
+      "land": "Bulgarien",
+      "landskod": "BG",
+      "normalbelopp": 459
+    },
+    {
+      "land": "Burkina Faso",
+      "landskod": "BF",
+      "normalbelopp": 421
+    },
+    {
+      "land": "Burma",
+      "landskod": null,
+      "normalbelopp": 367,
+      "hänvisning": "Se Myanmar"
+    },
+    {
+      "land": "Burundi",
+      "landskod": "BI",
+      "normalbelopp": 426
+    },
+    {
+      "land": "Caymanöarna",
+      "landskod": "KY",
+      "normalbelopp": 887
+    },
+    {
+      "land": "Centralafrikanska republiken",
+      "landskod": "CF",
+      "normalbelopp": 459
+    },
+    {
+      "land": "Chile",
+      "landskod": "CL",
+      "normalbelopp": 479
+    },
+    {
+      "land": "Colombia",
+      "landskod": "CO",
+      "normalbelopp": 378
+    },
+    {
+      "land": "Cooköarna",
+      "landskod": "CK",
+      "normalbelopp": 557
+    },
+    {
+      "land": "Costa Rica",
+      "landskod": "CR",
+      "normalbelopp": 677
+    },
+    {
+      "land": "Curacao",
+      "landskod": "CW",
+      "normalbelopp": 645
+    },
+    {
+      "land": "Cypern",
+      "landskod": "CY",
+      "normalbelopp": 601
+    },
+    {
+      "land": "Danmark",
+      "landskod": "DK",
+      "normalbelopp": 1226
+    },
+    {
+      "land": "Djibouti",
+      "landskod": "DJ",
+      "normalbelopp": 619
+    },
+    {
+      "land": "Dominikanska republiken",
+      "landskod": "DO",
+      "normalbelopp": 457
+    },
+    {
+      "land": "Ecuador",
+      "landskod": "EC",
+      "normalbelopp": 573
+    },
+    {
+      "land": "Egypten",
+      "landskod": "EG",
+      "normalbelopp": 300
+    },
+    {
+      "land": "Ekvatorialguinea",
+      "landskod": "GQ",
+      "normalbelopp": 652
+    },
+    {
+      "land": "El Salvador",
+      "landskod": "SV",
+      "normalbelopp": 462
+    },
+    {
+      "land": "Elfenbenskusten",
+      "landskod": "CI",
+      "normalbelopp": 755
+    },
+    {
+      "land": "Eritrea",
+      "landskod": "ER",
+      "normalbelopp": 399
+    },
+    {
+      "land": "Estland",
+      "landskod": "EE",
+      "normalbelopp": 683
+    },
+    {
+      "land": "Eswatini",
+      "landskod": "SZ",
+      "normalbelopp": 300
+    },
+    {
+      "land": "Etiopien",
+      "landskod": "ET",
+      "normalbelopp": 300
+    },
+    {
+      "land": "Fiji",
+      "landskod": "FJ",
+      "normalbelopp": 415
+    },
+    {
+      "land": "Filippinerna",
+      "landskod": "PH",
+      "normalbelopp": 466
+    },
+    {
+      "land": "Finland",
+      "landskod": "FI",
+      "normalbelopp": 968
+    },
+    {
+      "land": "Frankrike",
+      "landskod": "FR",
+      "normalbelopp": 850
+    },
+    {
+      "land": "Franska Guyana",
+      "landskod": "GF",
+      "normalbelopp": 735
+    },
+    {
+      "land": "Franska Polynesien",
+      "landskod": "PF",
+      "normalbelopp": 926
+    },
+    {
+      "land": "Förenade Arabemiraten",
+      "landskod": "AE",
+      "normalbelopp": 883
+    },
+    {
+      "land": "Gabon",
+      "landskod": "GA",
+      "normalbelopp": 650
+    },
+    {
+      "land": "Gambia",
+      "landskod": "GM",
+      "normalbelopp": 304
+    },
+    {
+      "land": "Georgien",
+      "landskod": "GE",
+      "normalbelopp": 331
+    },
+    {
+      "land": "Ghana",
+      "landskod": "GH",
+      "normalbelopp": 580
+    },
+    {
+      "land": "Gibraltar",
+      "landskod": "GI",
+      "normalbelopp": 654
+    },
+    {
+      "land": "Grekland",
+      "landskod": "GR",
+      "normalbelopp": 695
+    },
+    {
+      "land": "Grenada",
+      "landskod": "GD",
+      "normalbelopp": 603
+    },
+    {
+      "land": "Grönland",
+      "landskod": "GL",
+      "normalbelopp": 1226,
+      "hänvisning": "Se Danmark"
+    },
+    {
+      "land": "Guadeloupe",
+      "landskod": "GP",
+      "normalbelopp": 749
+    },
+    {
+      "land": "Guam",
+      "landskod": "GU",
+      "normalbelopp": 765
+    },
+    {
+      "land": "Guatemala",
+      "landskod": "GT",
+      "normalbelopp": 561
+    },
+    {
+      "land": "Guinea",
+      "landskod": "GN",
+      "normalbelopp": 566
+    },
+    {
+      "land": "Guyana",
+      "landskod": "GY",
+      "normalbelopp": 716
+    },
+    {
+      "land": "Haiti",
+      "landskod": "HT",
+      "normalbelopp": 870
+    },
+    {
+      "land": "Honduras",
+      "landskod": "HN",
+      "normalbelopp": 423
+    },
+    {
+      "land": "Hong Kong",
+      "landskod": "HK",
+      "normalbelopp": 895
+    },
+    {
+      "land": "Indien",
+      "landskod": "IN",
+      "normalbelopp": 300
+    },
+    {
+      "land": "Indonesien",
+      "landskod": "ID",
+      "normalbelopp": 418
+    },
+    {
+      "land": "Irak",
+      "landskod": "IQ",
+      "normalbelopp": 590
+    },
+    {
+      "land": "Irland",
+      "landskod": "IE",
+      "normalbelopp": 1038
+    },
+    {
+      "land": "Island",
+      "landskod": "IS",
+      "normalbelopp": 1125
+    },
+    {
+      "land": "Israel",
+      "landskod": "IL",
+      "normalbelopp": 956
+    },
+    {
+      "land": "Italien",
+      "landskod": "IT",
+      "normalbelopp": 802
+    },
+    {
+      "land": "Jamaica",
+      "landskod": "JM",
+      "normalbelopp": 425
+    },
+    {
+      "land": "Japan",
+      "landskod": "JP",
+      "normalbelopp": 386
+    },
+    {
+      "land": "Jordanien",
+      "landskod": "JO",
+      "normalbelopp": 803
+    },
+    {
+      "land": "Kambodja",
+      "landskod": "KH",
+      "normalbelopp": 532
+    },
+    {
+      "land": "Kamerun",
+      "landskod": "CM",
+      "normalbelopp": 524
+    },
+    {
+      "land": "Kanada",
+      "landskod": "CA",
+      "normalbelopp": 895
+    },
+    {
+      "land": "Kazakstan",
+      "landskod": "KZ",
+      "normalbelopp": 353
+    },
+    {
+      "land": "Kenya",
+      "landskod": "KE",
+      "normalbelopp": 472
+    },
+    {
+      "land": "Kina",
+      "landskod": "CN",
+      "normalbelopp": 581
+    },
+    {
+      "land": "Kirgizistan",
+      "landskod": "KG",
+      "normalbelopp": 300
+    },
+    {
+      "land": "Kiribati",
+      "landskod": "KI",
+      "normalbelopp": 309
+    },
+    {
+      "land": "Kongo (Brazzaville)",
+      "landskod": "CG",
+      "normalbelopp": 734
+    },
+    {
+      "land": "Kongo (Demokratiska Republiken)",
+      "landskod": "CD",
+      "normalbelopp": 990
+    },
+    {
+      "land": "Kosovo",
+      "landskod": "XK",
+      "normalbelopp": 300
+    },
+    {
+      "land": "Kroatien",
+      "landskod": "HR",
+      "normalbelopp": 550
+    },
+    {
+      "land": "Kuba",
+      "landskod": "CU",
+      "normalbelopp": 587
+    },
+    {
+      "land": "Kuwait",
+      "landskod": "KW",
+      "normalbelopp": 849
+    },
+    {
+      "land": "Laos",
+      "landskod": "LA",
+      "normalbelopp": 300
+    },
+    {
+      "land": "Lesotho",
+      "landskod": "LS",
+      "normalbelopp": 300
+    },
+    {
+      "land": "Lettland",
+      "landskod": "LV",
+      "normalbelopp": 763
+    },
+    {
+      "land": "Liberia",
+      "landskod": "LR",
+      "normalbelopp": 649
+    },
+    {
+      "land": "Libyen",
+      "landskod": "LY",
+      "normalbelopp": 300
+    },
+    {
+      "land": "Liechtenstein",
+      "landskod": "LI",
+      "normalbelopp": 1120
+    },
+    {
+      "land": "Litauen",
+      "landskod": "LT",
+      "normalbelopp": 635
+    },
+    {
+      "land": "Luxemburg",
+      "landskod": "LU",
+      "normalbelopp": 953
+    },
+    {
+      "land": "Macao",
+      "landskod": "MO",
+      "normalbelopp": 590
+    },
+    {
+      "land": "Madagaskar",
+      "landskod": "MG",
+      "normalbelopp": 300
+    },
+    {
+      "land": "Malawi",
+      "landskod": "MW",
+      "normalbelopp": 308
+    },
+    {
+      "land": "Malaysia",
+      "landskod": "MY",
+      "normalbelopp": 319
+    },
+    {
+      "land": "Maldiverna",
+      "landskod": "MV",
+      "normalbelopp": 503
+    },
+    {
+      "land": "Mali",
+      "landskod": "ML",
+      "normalbelopp": 488
+    },
+    {
+      "land": "Malta",
+      "landskod": "MT",
+      "normalbelopp": 659
+    },
+    {
+      "land": "Marocko",
+      "landskod": "MA",
+      "normalbelopp": 507
+    },
+    {
+      "land": "Martinique",
+      "landskod": "MQ",
+      "normalbelopp": 753
+    },
+    {
+      "land": "Mauretanien",
+      "landskod": "MR",
+      "normalbelopp": 350
+    },
+    {
+      "land": "Mauritius",
+      "landskod": "MU",
+      "normalbelopp": 349
+    },
+    {
+      "land": "Mexiko",
+      "landskod": "MX",
+      "normalbelopp": 562
+    },
+    {
+      "land": "Mikronesiska federationen",
+      "landskod": "FM",
+      "normalbelopp": 560
+    },
+    {
+      "land": "Mocambique",
+      "landskod": "MZ",
+      "normalbelopp": 403
+    },
+    {
+      "land": "Moldavien",
+      "landskod": "MD",
+      "normalbelopp": 414
+    },
+    {
+      "land": "Monaco",
+      "landskod": "MC",
+      "normalbelopp": 1073
+    },
+    {
+      "land": "Mongoliet",
+      "landskod": "MN",
+      "normalbelopp": 307
+    },
+    {
+      "land": "Montenegro",
+      "landskod": "ME",
+      "normalbelopp": 391
+    },
+    {
+      "land": "Myanmar",
+      "landskod": "MM",
+      "normalbelopp": 367
+    },
+    {
+      "land": "Namibia",
+      "landskod": "NA",
+      "normalbelopp": 300
+    },
+    {
+      "land": "Nederländerna",
+      "landskod": "NL",
+      "normalbelopp": 745
+    },
+    {
+      "land": "Nepal",
+      "landskod": "NP",
+      "normalbelopp": 300
+    },
+    {
+      "land": "Nicaragua",
+      "landskod": "NI",
+      "normalbelopp": 469
+    },
+    {
+      "land": "Niger",
+      "landskod": "NE",
+      "normalbelopp": 394
+    },
+    {
+      "land": "Nordmakedonien",
+      "landskod": "MK",
+      "normalbelopp": 312
+    },
+    {
+      "land": "Norge",
+      "landskod": "NO",
+      "normalbelopp": 1054
+    },
+    {
+      "land": "Nya Kaledonien",
+      "landskod": "NC",
+      "normalbelopp": 862
+    },
+    {
+      "land": "Nya Zeeland",
+      "landskod": "NZ",
+      "normalbelopp": 525
+    },
+    {
+      "land": "Oman",
+      "landskod": "OM",
+      "normalbelopp": 822
+    },
+    {
+      "land": "Pakistan",
+      "landskod": "PK",
+      "normalbelopp": 300
+    },
+    {
+      "land": "Panama",
+      "landskod": "PA",
+      "normalbelopp": 673
+    },
+    {
+      "land": "Papua Nya Guinea",
+      "landskod": "PG",
+      "normalbelopp": 507
+    },
+    {
+      "land": "Paraguay",
+      "landskod": "PY",
+      "normalbelopp": 349
+    },
+    {
+      "land": "Peru",
+      "landskod": "PE",
+      "normalbelopp": 482
+    },
+    {
+      "land": "Polen",
+      "landskod": "PL",
+      "normalbelopp": 597
+    },
+    {
+      "land": "Portugal",
+      "landskod": "PT",
+      "normalbelopp": 616
+    },
+    {
+      "land": "Puerto Rico",
+      "landskod": "PR",
+      "normalbelopp": 701
+    },
+    {
+      "land": "Qatar",
+      "landskod": "QA",
+      "normalbelopp": 837
+    },
+    {
+      "land": "Réunion",
+      "landskod": "RE",
+      "normalbelopp": 751
+    },
+    {
+      "land": "Rumänien",
+      "landskod": "RO",
+      "normalbelopp": 414
+    },
+    {
+      "land": "Rwanda",
+      "landskod": "RW",
+      "normalbelopp": 300
+    },
+    {
+      "land": "Ryssland",
+      "landskod": "RU",
+      "normalbelopp": 661
+    },
+    {
+      "land": "Saint Lucia",
+      "landskod": "LC",
+      "normalbelopp": 706
+    },
+    {
+      "land": "Saint Vincent och Grenadinerna",
+      "landskod": "VC",
+      "normalbelopp": 441
+    },
+    {
+      "land": "Salomonöarna",
+      "landskod": "SB",
+      "normalbelopp": 648
+    },
+    {
+      "land": "Samoa, Självständiga staten",
+      "landskod": "WS",
+      "normalbelopp": 537
+    },
+    {
+      "land": "San Marino",
+      "landskod": null,
+      "normalbelopp": 802,
+      "hänvisning": "Se Italien"
+    },
+    {
+      "land": "Saudiarabien",
+      "landskod": "SA",
+      "normalbelopp": 1016
+    },
+    {
+      "land": "Schweiz",
+      "landskod": "CH",
+      "normalbelopp": 1332
+    },
+    {
+      "land": "Senegal",
+      "landskod": "SN",
+      "normalbelopp": 626
+    },
+    {
+      "land": "Serbien",
+      "landskod": "RS",
+      "normalbelopp": 533
+    },
+    {
+      "land": "Seychellerna",
+      "landskod": "SC",
+      "normalbelopp": 846
+    },
+    {
+      "land": "Sierra Leone",
+      "landskod": "SL",
+      "normalbelopp": 345
+    },
+    {
+      "land": "Singapore",
+      "landskod": "SG",
+      "normalbelopp": 845
+    },
+    {
+      "land": "Sint Maarten",
+      "landskod": "SX",
+      "normalbelopp": 724
+    },
+    {
+      "land": "Slovakien",
+      "landskod": "SK",
+      "normalbelopp": 737
+    },
+    {
+      "land": "Slovenien",
+      "landskod": "SI",
+      "normalbelopp": 574
+    },
+    {
+      "land": "Spanien",
+      "landskod": "ES",
+      "normalbelopp": 635
+    },
+    {
+      "land": "Sri Lanka",
+      "landskod": "LK",
+      "normalbelopp": 424
+    },
+    {
+      "land": "Storbritannien och Nordirland",
+      "landskod": "GB",
+      "normalbelopp": 901
+    },
+    {
+      "land": "Surinam",
+      "landskod": "SR",
+      "normalbelopp": 424
+    },
+    {
+      "land": "Swaziland",
+      "landskod": null,
+      "normalbelopp": 300,
+      "hänvisning": "Se Eswatini"
+    },
+    {
+      "land": "Sydafrika",
+      "landskod": "ZA",
+      "normalbelopp": 349
+    },
+    {
+      "land": "Sydkorea",
+      "landskod": "KR",
+      "normalbelopp": 517
+    },
+    {
+      "land": "Tadzjikistan",
+      "landskod": "TJ",
+      "normalbelopp": 300
+    },
+    {
+      "land": "Taiwan",
+      "landskod": "TW",
+      "normalbelopp": 554
+    },
+    {
+      "land": "Tanzania",
+      "landskod": "TZ",
+      "normalbelopp": 331
+    },
+    {
+      "land": "Tchad",
+      "landskod": "TD",
+      "normalbelopp": 580
+    },
+    {
+      "land": "Thailand",
+      "landskod": "TH",
+      "normalbelopp": 521
+    },
+    {
+      "land": "Tjeckien",
+      "landskod": "CZ",
+      "normalbelopp": 695
+    },
+    {
+      "land": "Togo",
+      "landskod": "TG",
+      "normalbelopp": 533
+    },
+    {
+      "land": "Tonga",
+      "landskod": "TO",
+      "normalbelopp": 438
+    },
+    {
+      "land": "Trinidad och Tobago",
+      "landskod": "TT",
+      "normalbelopp": 801
+    },
+    {
+      "land": "Tunisien",
+      "landskod": "TN",
+      "normalbelopp": 300
+    },
+    {
+      "land": "Turkiet",
+      "landskod": "TR",
+      "normalbelopp": 366
+    },
+    {
+      "land": "Turkmenistan",
+      "landskod": "TM",
+      "normalbelopp": 1454
+    },
+    {
+      "land": "Tyskland",
+      "landskod": "DE",
+      "normalbelopp": 760
+    },
+    {
+      "land": "Uganda",
+      "landskod": "UG",
+      "normalbelopp": 446
+    },
+    {
+      "land": "Ukraina",
+      "landskod": "UA",
+      "normalbelopp": 300
+    },
+    {
+      "land": "Ungern",
+      "landskod": "HU",
+      "normalbelopp": 679
+    },
+    {
+      "land": "Uruguay",
+      "landskod": "UY",
+      "normalbelopp": 595
+    },
+    {
+      "land": "USA",
+      "landskod": "US",
+      "normalbelopp": 1049
+    },
+    {
+      "land": "Uzbekistan",
+      "landskod": "UZ",
+      "normalbelopp": 324
+    },
+    {
+      "land": "Vanuatu",
+      "landskod": "VU",
+      "normalbelopp": 603
+    },
+    {
+      "land": "Venezuela",
+      "landskod": "VE",
+      "normalbelopp": 300
+    },
+    {
+      "land": "Vietnam",
+      "landskod": "VN",
+      "normalbelopp": 328
+    },
+    {
+      "land": "Zambia",
+      "landskod": "ZM",
+      "normalbelopp": 384
+    },
+    {
+      "land": "Österrike",
+      "landskod": "AT",
+      "normalbelopp": 730
+    },
+    {
+      "land": "Östtimor",
+      "landskod": "TL",
+      "normalbelopp": 451
+    },
+    {
+      "land": "Övriga länder och områden",
+      "landskod": null,
+      "normalbelopp": 470
+    }
+  ]
+}

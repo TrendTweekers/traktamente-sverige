@@ -1,0 +1,19 @@
+{
+  "år": 2026,
+  "källa": "Skatteverket, https://www.skatteverket.se/foretag/arbetsgivare/lonochersattning/traktamenteochbilersattning.4.361dc8c15312eff6fd1703e.html",
+  "traktamente_inrikes": {
+    "hel_dag": 300,
+    "halv_dag": 150,
+    "natt_utan_betalt_logi": 150,
+    "efter_tre_manader": 210,
+    "efter_tva_ar": 150,
+    "maltidsavdrag_andel": { "frukost": 0.20, "lunch_eller_middag": 0.35, "lunch_och_middag": 0.70, "alla_tre": 0.90 }
+  },
+  "traktamente_utrikes": {
+    "halv_dag_andel": 0.5,
+    "natt_andel": 0.5,
+    "efter_tre_manader_andel": 0.7,
+    "maltidsavdrag_andel": { "frukost": 0.15, "lunch_eller_middag": 0.35, "lunch_och_middag": 0.70, "alla_tre": 0.85 }
+  },
+  "milersattning_kr_per_mil": { "egen_bil": 25, "formansbil": 12, "formansbil_el": 9.5 }
+}
